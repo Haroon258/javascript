@@ -70,4 +70,14 @@ let a = 6;
 let b = 8;
 console.log(a+b);
 }
+{
+    let a = 6;
+    let b = 8;
+    console.log(a+b);
+    }
+    {
+        let a = 6;
+        let b = 8;
+        console.log(a+b);
+        }
 // same just like plus we use minus multiplier and divide

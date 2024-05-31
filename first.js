@@ -138,3 +138,6 @@ if (age>=18){
 if (age<18){
     console.log("you cant vote");
 }
+<Link href={href} className='nav-item font-medium' onClick={onClick}>
+        {children}
+    </Link>

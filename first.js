@@ -120,7 +120,17 @@
 
 // 7:
 //  if condition
-let age = 70;
+// let age = 70;
+
+// if (age>=18){
+//     console.log("you can vote");
+// }
+// if (age<18){
+//     console.log("you cant vote");
+// }
+
+
+ let age = 70;
 
 if (age>=18){
     console.log("you can vote");

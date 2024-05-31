@@ -65,19 +65,66 @@
 
 // 4: Arithmatic oprations
 
-{
-let a = 6;
-let b = 8;
-console.log(a+b);
-}
-{
-    let a = 6;
-    let b = 8;
-    console.log(a+b);
-    }
-    {
-        let a = 6;
-        let b = 8;
-        console.log(a+b);
-        }
+// {
+// let a = 6;
+// let b = 8;
+// console.log(a+b);
+// }
+
 // same just like plus we use minus multiplier and divide
+
+
+
+
+
+// 5:
+// unery oprater
+// increment
+// decrement
+// let a = 3;
+// a++
+// console.log(a)
+
+
+
+
+
+
+
+// // :6
+// // assignment operaters
+// let a = 3;
+// let b= 5;
+
+// a+=7;
+// console.log(a);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// 7:
+//  if condition
+let age = 70;
+
+if (age>=18){
+    console.log("you can vote");
+}
+if (age<18){
+    console.log("you cant vote");
+}
